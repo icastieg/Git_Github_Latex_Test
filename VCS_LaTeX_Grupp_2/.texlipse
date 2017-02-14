@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Tue Feb 14 07:35:14 CET 2017
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=VCS_LaTeX_Grupp_2.tex
+outputFile=VCS_LaTeX_Grupp_2.pdf
+langSpell=en
+markDer=true
+srcDir=

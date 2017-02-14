@@ -1,0 +1,2 @@
+\select@language {swedish}
+\contentsline {section}{\numberline {1}Picture}{2}{section.1}
